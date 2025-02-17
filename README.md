@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm leoboran123</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h1 align="center">Hi 👋, I'm Erdem</h1>
+<h3 align="center">A passionate Back-End developer</h3>
 
 <p align="left"> <a href="https://twitter.com/erdemboranbadd" target="blank"><img src="https://img.shields.io/twitter/follow/erdemboranbadd?logo=twitter&style=for-the-badge" alt="erdemboranbadd" /></a> </p>
 
